@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "21dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd5e1cbc0fd24ca9adb550cc17b17db4",
+    "_text_": "Cadastre-se",
+    "_top_": {
+        "type": "string",
+        "value": "507dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "316dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s33f8a2c722f43cf854af817759e7653",
+    "id": "CopyButton06f5dcff4cae743",
+    "ide_onClick": "AS_Button_f9cd6335c68146079c53b58b0bfa4a71",
+    "info": null,
+    "isvisible": true,
+    "kuid": "174c4a74333c4dc0aa3c1081f88a8ee3",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_f9cd6335c68146079c53b58b0bfa4a71",
+    "parent": "FlexContainer0ef1a8ba3060a4a",
+    "pf": "Login",
+    "wType": "Button",
+    "zindex": 1
+}

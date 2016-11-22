@@ -1,0 +1,19 @@
+{
+  "android": {
+    "font_name": "sans-serif"
+  },
+  "background_color": "ffffffff",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "3d77ebff",
+  "font_name": "Helvetica",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "s099052f92af43f388748fa8e1c72268",
+  "wType": "RadioButtonGroup"
+}

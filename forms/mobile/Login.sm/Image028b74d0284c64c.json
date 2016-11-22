@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "107"
+    },
+    "_skin_": "s030b900ad9640ed929eb91f562efe88",
+    "_src_": "tribanco.png",
+    "_top_": {
+        "type": "string",
+        "value": "107dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "Login",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "Image028b74d0284c64c",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "imageWhenFailed",
+    "isvisible": true,
+    "kuid": "f4861a184c59449e9e80a742f609b39d",
+    "name": "kony.ui.Image2",
+    "paddingLocked": false,
+    "paddinginpixel": false,
+    "parent": "FlexContainer0ef1a8ba3060a4a",
+    "pf": "Login",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

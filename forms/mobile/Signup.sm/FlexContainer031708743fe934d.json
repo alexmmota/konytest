@@ -1,0 +1,70 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sba9079a246a49bc8fa7aaa01370c2ef",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopyLabel08c1e2f42de6147",
+        "CopyLabel0539348caad8f4a",
+        "CopyLabel04ce1d13db5d540",
+        "TextField06a1cb9fef98f44",
+        "CopyTextField05f16554ede0643",
+        "CopyTextField05a26b169b99748",
+        "CopyTextField018862263006a4d",
+        "Button059e3fc19392e4f",
+        "Label0a3d03ad56b254c",
+        "CopyLabel0276e46639f8f49",
+        "FlexContainer0480a595aadb447",
+        "RadioButtonGroup088b81a3dd17143",
+        "Label0472a26b988cc4c",
+        "CheckBoxGroup0c05f454dc41b40"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexContainer031708743fe934d",
+    "info": null,
+    "isvisible": true,
+    "kuid": "9a96a702b3a4425ba1600427a7f2da82",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "Signup",
+    "pf": "Signup",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

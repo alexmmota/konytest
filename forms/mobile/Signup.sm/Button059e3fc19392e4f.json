@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd5e1cbc0fd24ca9adb550cc17b17db4",
+    "_text_": "Cadastrar",
+    "_top_": {
+        "type": "string",
+        "value": "533dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "316dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s33f8a2c722f43cf854af817759e7653",
+    "id": "Button059e3fc19392e4f",
+    "info": null,
+    "isvisible": true,
+    "kuid": "0e1f20adebdf448ca59b0878cdad6170",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainer031708743fe934d",
+    "pf": "Signup",
+    "wType": "Button",
+    "zindex": 1
+}

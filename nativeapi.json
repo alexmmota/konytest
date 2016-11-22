@@ -1,0 +1,18 @@
+{
+    "NativeFunctionAPI": {
+        "iOS": {},
+        "Android": {
+            "API level 23": {
+                "android.support.v7.recyclerview-Android-API level 23": {
+                    "title": "android.support.v7.recyclerview",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/android.support.v7.recyclerview-Android-4.0.zip",
+                    "checksum": "3ceb05d0949aa18a1bf28f6471abaeea3430d13d",
+                    "filepath": "/Users/alex/KonyVizEWS/TQI/nativebindings/Android/API level 23/android.support.v7.recyclerview-Android-4.0.zip",
+                    "enable": true
+                }
+            }
+        }
+    }
+}
